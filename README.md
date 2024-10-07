@@ -1,44 +1,48 @@
 # LFECHS-ACE
 A website for info about the La Feria Early College High Schools ACE program
 Made by 
-Crishtion Reyna
+Crishtion Reyna &
 Angel Correa 
 
 
-UPDATE INFO
+<h4>UPDATE INFO</h4>
 
 
-Syntax for reading and logging updates is as follows: update-importance.what-was-updated-.update-number EX 2.3.5
+<h5>Syntax for reading and logging updates is as follows: <strong><em>update-importance.what-was-updated-.update-number EX 2.3.5</em></strong></strong></h5>
 
 
-UPDATE IMPORTANCE LEVELS
+<h4>UPDATE IMPORTANCE LEVELS</h4>
 
 
-0- fixing code
+<b>0</b>- fixing code
 
 
-1- testing code(this should only be used in development stages)
+<b>1</b>- testing code(this should only be used in development stages)
 
 
-2- deletion of unnecessary code or making revisions
+<b>2</b>- deletion of unnecessary code or making revisions
 UPDATE TYPES
 
-3- info has been added to page
+<b>3</b>- info has been added to page
 
 
-4- new code, such as styles, scripts, or html has been added
+<b>4</b>- new code, such as styles, scripts, or html has been added
 
 
-5- major implementation or removal of code
+<b>5</b>- major implementation or removal of code
 
 
-WHAT WAS UPDATED
+<h4>WHAT WAS UPDATED</h4>
 
 
-0.1 anything regarding README
+<b>1</b>- anything regarding README
 
 
-0.3 anything regarding css elements (disregard past use of 0.3 & 0.3.1)
+<b>2</b>- anything regarding .JS files
 
 
-0.4 anything regarding the body tag and its nested elements in the home page
+<b>3</b>- anything regarding css elements 
+
+
+<b>4</b>- anything regarding the home page/index.html
+

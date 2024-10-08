@@ -6,3 +6,16 @@
     list-style: none;
     display: block;
     margin: 0 0 15px 0;
+
+social-icons ul li a {
+    display: flex;
+    width: 35px;
+    height: 35px;
+    background: #6b120e;
+    color: #dca71a;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    line-height: 35px;
+    transition: all 400ms cubic-bezier(0.19, 1, 0.22, 1);
+    text-decoration: none;
